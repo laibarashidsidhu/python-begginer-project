@@ -1,0 +1,6 @@
+name = input('enter your name')
+age = input('enter your age')
+phone_number = input('enter your number')
+print = ("name :",name)
+print = ("age:",age)
+print = ("number",phone_number)
